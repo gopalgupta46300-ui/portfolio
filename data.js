@@ -7,7 +7,7 @@
 
 const portfolioData = {
   personalInfo: {
-    name: "Aarav Sharma",
+    name: "Gopal ji Gupta",
     role: "AI / ML Engineer & Generative AI Enthusiast",
     taglineWords: [
       "Generative AI",
@@ -22,7 +22,7 @@ const portfolioData = {
     email: "aarav.sharma.ai@gmail.com",
     about: {
       summary:
-        "I'm a final-year Computer Science undergrad with an obsession for understanding how machines learn to think, see, and create. What started as curiosity about how ChatGPT 'knows' things turned into a full-blown journey through ML, deep learning and now, agentic AI systems.",
+        "I'm a Computer Science undergrad with an obsession for understanding how machines learn to think, see, and create. What started as curiosity about how ChatGPT 'knows' things turned into a full-blown journey through ML, deep learning and now, agentic AI systems.",
       education: [
         {
           degree: "B.Tech in Computer Science & Engineering",
@@ -31,9 +31,9 @@ const portfolioData = {
           detail: "Specialization in Artificial Intelligence & Data Science · CGPA 8.9/10"
         },
         {
-          degree: "Senior Secondary (XII), PCM",
-          institute: "Delhi Public School",
-          year: "2020 — 2022",
+          degree: "CSE- AIML",
+          institute: "Allenhouse Institute of Technology",
+          year: "2024 — 2028",
           detail: "School Topper — Computer Science"
         }
       ],
@@ -45,10 +45,11 @@ const portfolioData = {
   },
 
   socialLinks: {
-    github: { username: "aaravsharma-ai", url: "https://github.com/" },
-    linkedin: { username: "aarav-sharma-ai", url: "https://linkedin.com/" },
-    leetcode: { username: "aarav_codes", url: "https://leetcode.com/" },
-    email: "mailto:aarav.sharma.ai@gmail.com"
+    github: { username: "gopalgupta46300-ui", url: "https://github.com/gopalgupta46300-ui" },
+    linkedin: { username: "Gopal Gupta", url: "https://www.linkedin.com/in/gopal-gupta-a0a69a30a/" },
+    leetcode: {username: "u/_gopal_ji_gupta", url: "https://leetcode.com/u/_gopal_ji_gupta/"}
+
+    email: "gopalgupta46300@gmail.com"
   },
 
   skills: [
